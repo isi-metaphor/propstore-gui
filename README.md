@@ -1,5 +1,5 @@
-Dependency Store Web GUI
-========================
+Propositions Store Web GUI
+==========================
 
 Web application to access dependency store collected at isi.edu
 
