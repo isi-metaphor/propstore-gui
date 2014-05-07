@@ -1,4 +1,3 @@
-Dependency store web service
 Proposition store web service
 ===================
 
