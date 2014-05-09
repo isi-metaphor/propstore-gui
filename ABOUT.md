@@ -1,7 +1,7 @@
 Proposition store web service
 ===================
 
-A proposition store is a collection of propositions with assigned frequencies. This web service provides an access to 5 proposition stores:
+Proposition store is a collection of propositions with assigned frequencies. This web service provides an access to 5 proposition stores:
 
 - English
 - English generalized
@@ -57,7 +57,7 @@ and Wikipedia semantic nodes using the [YAGO](http://www.mpi-inf.mpg.de/yago-nag
 
 ---
 
-The tools for building proposition stores can be found in [this repository](https://github.com/zaycev/mokujin).
+The tools for building proposition stores can be found in [this repository](https://github.com/MetaphorExtractionTools/mokujin).
 
 ---
 
