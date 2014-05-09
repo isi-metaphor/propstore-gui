@@ -50,7 +50,7 @@ A significant amount of the propositions can be further generalized if we abstra
 (journal publish interview with Dr. Crick)
 ```
 
-The first two tuples above provide evidence for generating the tuple *newspaper publish interview with person)*. All three tuples above can be generalized into *(periodical publish interview with person)*. Such generalizations help to refine frequencies assigned to tuples containing abstract nouns and infer new tuples.
+The first two tuples above provide evidence for generating the tuple (*newspaper publish interview with person*). All three tuples above can be generalized into (*periodical publish interview with person*). Such generalizations help to refine frequencies assigned to tuples containing abstract nouns and infer new tuples.
 
 In order to obtain the generalizations, we first map nouns contained in the tuples into WordNet
 and Wikipedia semantic nodes using the [YAGO](http://www.mpi-inf.mpg.de/yago-naga/yago/) ontology. Then we merge together tuples can contain arguments mapped to the same semantic nodes in YAGO.
